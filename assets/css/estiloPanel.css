@@ -1,0 +1,12 @@
+/* Sólo agrego lo necesario para 
+el estilo. El estilo completo esta
+en los otros css
+*/
+#main #vehiculo{
+	width: 800px;
+	height: 200px;
+	border-color: #CCC;
+	border-width: 2px;
+	border-style: solid;
+	-webkit-border-radius: 65px 0px 0px 65px;
+}

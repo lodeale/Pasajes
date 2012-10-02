@@ -1,0 +1,50 @@
+body, #container, section, header, footer, #header, #footer, #wrapper{
+	padding: 0px;
+	marggin: 0px;
+}
+
+
+body{
+	background-color: #BBB;
+	text-align: center;
+}
+
+#container{
+	margin-left: 15%;
+	display: block;
+	background-image: url(../images/colectivo.jpg);
+	width: 1024px;
+	min-height: 500px;
+	
+}
+
+#header{
+	color: #fff;
+	font-size: 32px;
+}
+
+#wrapper {
+	width: 300px;
+	margin-left: 35%;
+	margin-top: 10%;
+	background-color: #111;
+	min-height: 130px;
+	opacity: 0.9;
+	border-color: #fff;
+	border-style: solid;
+	border-width: 3px;
+	font-size: 32px;
+	border-radius: 25px 25px 25px 25px;
+}
+
+#wrapper input{
+	font-size: 22px;
+}
+
+#footer{
+	display: block;
+	margin-top: 20%;
+	background-color: #333;
+	color: #FFF;
+	opacity: 0.8;
+}
